@@ -1,4 +1,4 @@
-Customer Segmentation Analysis
+# Customer Segmentation Analysis
 
 This project uses R to perform RFM (Recency, Frequency, Monetary) analysis on retail transaction data.
 
